@@ -106,3 +106,4 @@ The module is pretty strict - it will error when:
 - you attempt to change something via a `SUPER()` call (like: `SUPER().someCriticalFunc = overriderFunc`).
 
 ## Example Usage:
+![codeimage-snippet_28](https://github.com/user-attachments/assets/719939a3-8418-4107-bac3-e1658f70a778)(this comes pre-packaged as part of a set of helper classes. they are readily available as soon as the factory is created.)
